@@ -1,0 +1,168 @@
+
+/*========= Buy Now Page Css ===========*/
+
+.quick-buy-now-css .tab-pane {float: left; width: 100%;}
+
+.buy-now-section {background: rgba(0, 0, 0, 0); padding: 30px 0; font-family: karla;}
+.boy-now-section .tab-content.tab-right{min-height: 450px;}
+.quick-buy-now-css .tabs-left .nav .active > a {color: rgb(10, 166, 153); font-size: 17px; font-weight: 500;}
+.quick-buy-now-css .tabs-left .nav a {padding: 14px; font-size: 17px;}
+.quick-buy-now-css .tabs-left .nav a:hover{color: rgb(10, 166, 153);}
+.quick-buy-now-css .nav.nav-pills span {border: 1px solid rgb(238, 238, 238); border-radius: 100%; display: block; float: left; font-family: helvetica; font-size: 14px; height: 23px;  line-height: 20px; margin: 0 10px 0 0; text-align: center; width: 23px;}
+.quick-buy-now-css .tabs-left .nav a:hover span{ border:1px solid rgb(10, 166, 153);}
+.but-now-details .nav.nav-pills .active span {border: 1px solid rgb(10, 166, 153); font-weight: 400;}
+.quick-buy-now-css .tabs-left ul li.active::after{right: -8px;}
+.but-now-details .tab-content.tab-right{ padding: 10px 4% 20px;}
+.quick-buy-now-css h3 {font-size: 26px;}
+
+/*========= Buy Now Login/Register Form Css ===========*/
+
+.buy-login-form-left {float: left; width: 42%;}
+.buy-login-form-right {float: right; width: 53%;}
+.quick-buy-now-css .or-divider::after, .quick-buy-now-css .or-divider::before{ border:none;}
+.buy-login-form input {display: block; height: 40px; padding: 0 10px; width: 100%; margin:0 0 14px; border:1px solid rgb(221, 221, 221);}
+.buy-login-form { margin: 20px 0 0;}
+.social-acc-login { float: left; width: 79%; text-align:center;}
+.buy-login-form .button {display: block; font-size: 16px; height: 40px; line-height: 36px; padding: 0;  text-align: center;}
+.quick-buy-now-css .or-divider {float: left; font-size: 15px; line-height: 16; text-align: center; width: 20%;}
+.quick-buy-now-css .or-divider::after, .quick-buy-now-css .or-divider::before{border-left: 1px solid rgb(221, 221, 221); content: "";position: absolute; height:64px; left: 44px;}
+.quick-buy-now-css .or-divider::after{top: 134px;}
+.quick-buy-now-css .or-divider::before {top: 40px;}
+.social-acc-login li {display: inline-block; margin: 0 0 0 20px;}
+.social-acc-login li a{border-radius: 2px; color: rgb(255, 255, 255); font-size: 30px; padding: 14px 22px;}
+.social-acc-login li .buy-fa{ padding: 14px 26px;}
+.buy-fa {background: rgb(57, 81, 140);}
+.buy-te {background: rgb(29, 174, 227);}
+.buy-gl {background: rgb(212, 72, 55);}
+.social-acc-login > p {margin: 30px 0 0;}
+.social-acc-login > ul {margin: 40px 0 0;}
+
+/*========= Confirm Address Css ===========*/
+
+.quick-buy-now-css label {float: left; font-size: 16px; font-weight: 500;}
+.quick-buy-now-css .form-control {border: 1px solid rgb(221, 221, 221); border-radius: 0; box-shadow: none; float: left;}
+.continue-button {text-align: center;}
+.continue-button .button {font-size: 16px;}
+
+.quick-buy-now-css .tab-right .confirm-address li {float: left; margin: 0 38px 20px 0;  width: 46%;}
+.quick-buy-now-css .tab-right .confirm-address li:nth-child(2n), .quick-buy-now-css .tab-right .confirm-address li:nth-of-type(5){ float: right; margin-right: 0;}
+.confirm-address textarea.form-control {height: 117px;}
+
+/*========= Review Order Css ===========*/
+
+.review-order-top {border-bottom: 1px solid rgb(238, 238, 238); margin: 0 0 10px;  padding: 0 0 4px;}
+.review-order img {float: left; height: 70px; margin: 0 20px 0 0; width: 70px;}
+.review-order-mid {border-bottom: 3px solid rgb(238, 238, 238); margin: 0 0 30px; padding: 0 0 20px;}
+.review-order-mid .dropdown-toggle { border: 1px solid rgb(238, 238, 238); display: block; height: 28px; line-height: 26px; text-align: center; width: 45px;}
+.review-order .caret {float: right; margin: 11px 4px 0 0;}
+.review-order .dropdown-menu > li > a {padding: 3px 15px;}
+.review-order .dropdown-menu {min-width: 58px;}
+
+.review-order-mid label {font-size: 14px;}
+.review-order-mid p {display: block; float: left; margin: 0;  width: 100%;}
+.subtotal-css {position: relative;}
+.subtotal-css a {border-radius: 100%; color: rgb(204, 204, 204); font-size: 12px; height: 20px; line-height: 20px; position: absolute; right: 0; text-align: center; top: 3px; width: 20px;
+border:1px solid transparent;}
+.subtotal-css a:hover{ color:#974844; border:1px solid #ddd;}
+.promo-box {display: none;}
+.review-bottom .promo-box .button {display: block; float: left; font-size: 16px; height: 35px; line-height: 33px; margin: 10px 0; padding: 0; text-align: center; width: 100%;}
+.total-left {float: left;}
+.total-right {float: right;}
+.review-bottom hr {float: left; width: 100%; margin:20px 0 14px;}
+.review-bottom li.last {font-size: 22px; margin:0 0 20px;}
+.review-bottom li.last .total-right {color: rgb(0, 0, 0);}
+.review-bottom .button{display: block; float: left; font-size: 16px; padding: 8px 0; text-align: center; width: 100%;}
+.review-bottom .col-xl-6.col-lg-6.col-md-6{ padding: 0;}
+.review-order-css {margin: 0 0 20px;}
+
+/*========= Payment Order Css ===========*/
+
+#apply_offers .owl-buttons .disabled {display: none;}
+#apply_offers .owl-controls .owl-buttons div{height: 28px; line-height: normal; text-align: center; top: 36%; width: 28px;}
+#apply_offers  .owl-buttons .owl-next {right: -52px;}
+#apply_offers .owl-buttons .owl-next a::before, #apply_offers .owl-prev a::before {line-height: normal; font-size:21px;}
+.bank-offers {border: 1px dashed rgb(204, 204, 204); margin: 50px auto; padding: 16px 39px; position:relative;}
+.bank-offers > span {background: rgb(255, 255, 255); color: rgb(0, 0, 0);  font-size: 16px;  padding: 0 10px;  position: absolute; top: -12px; font-weight:bold;}
+#apply_offers .item {margin: 0 0 0 20px; width: 200px;}
+
+.bank-offers label{ position:absolute; top:-7px; left:-8px;}
+.payments-options .tabs-left {background: rgba(0, 0, 0, 0);  width: 25%;}
+.payments-options .tab-content.tab-right {float: right; width: 73%;}
+.quick-buy-now-css .payments-options .tabs-left .nav a {font-size: 16px;  padding: 8px 18px; border:none;}
+.quick-buy-now-css .payments-options .tabs-left .nav .active a {color: rgb(255, 255, 255); position:relative;}
+
+.quick-buy-now-css .payments-options .tabs-left ul li.active::after, .quick-buy-now-css .payments-options .tabs-left ul li.active:hover::after{border-bottom: 20px solid rgba(0, 0, 0, 0); border-left: 20px solid rgb(115, 115, 115); border-top: 20px solid rgba(0, 0, 0, 0);  right: -20px;}
+.payments-options .tabs-left ul li{ background:#EEEEEE; margin:0;}
+.payments-options .tabs-left ul li:hover{background:#E2E2E2;}
+.quick-buy-now-css .payments-options .tabs-left ul li:hover::after{border-bottom: 20px solid rgba(0, 0, 0, 0); border-left: 20px solid #E2E2E2; border-top: 20px solid rgba(0, 0, 0, 0);  right: -20px; content:""; position:absolute; top:0; z-index:99;}
+.payments-options .tabs-left ul li.active {background: rgb(115, 115, 115);}
+.payment-details-headerleft { float:left;}
+.payment-details-header {border-bottom: 1px solid rgb(238, 238, 238); font-family: raleway; font-size: 18px; font-weight: 300; margin: 10px 0 20px; padding: 0 0 6px;}
+
+.payment-details-headeright { float: right;}
+.payment-option-mid { position: relative;}
+.card{ display: block;  height: 34px;  margin-left: 20px;  width: 57px;}
+.visa.card{ background:url(../images/cards-bg.png) no-repeat scroll 0 -128px;}
+.master.card{ background:url(../images/cards-bg.png) no-repeat scroll 0 -164px;}
+.diners.card{ background:url(../images/cards-bg.png) no-repeat scroll 0 -381px;}
+.ezeclick.card{ background:url(../images/cards-bg.png) no-repeat scroll 0 -346px;}
+
+.amexezeclick.card{ background:url(../images/cards-bg.png) no-repeat scroll 0 -236px;}
+.visa.card{ background:url(../images/cards-bg.png) no-repeat scroll 0 -128px;}
+.payment-option-mid .radio{ position:relative;}
+.payment-option-cards { float: left;  width: 100px;}
+.payment-details-footer {margin: 30px 0 0;}
+.payment-css{margin: 0 0 30px; }
+.payment-css, .payment-form {float: left;  width: 100%;}
+.payments-fields {float: left;  margin: 0 0 14px;  width: 100%;}
+.payments-fields label {font-size: 15px;}
+.payments-fields a {display: block;  margin: 8px 0 0;}
+.payments-fields .tooltip.right{ left:40px !important;}
+.verified-mastercardsecure {float: left;  margin: 20px 0 0;  text-align: center;  width: 100%;}
+.verified-mastercardsecure span {margin: 0 0 0 15px;}
+.payment-details-footer > p {font-family: raleway;  font-size: 12px;}
+#gift_voucher .button.button-color {height: 34px; line-height: 30px;  margin: 0;  padding: 0;  text-align: center; font-size:14px;}
+#gift_voucher .col-xl-2.col-lg-2.col-md-2{ padding:0;}
+#gift_voucher p {float: left;  font-size: 12px;  margin: 4px 0 0;  text-align: center;  width: 100%;}
+#cash_on > p {font-size: 16px;  margin: 0 0 20px;}
+.icici.card {background:url("../images/cards-bg.png") no-repeat scroll 0 -30px;}
+.hdfc.card {background:url("../images/cards-bg.png") no-repeat scroll 0 -94px;}
+.axis.card {background:url("../images/cards-bg.png") no-repeat scroll 0 2px;}
+#net_banking .card{ width:72px;  top: -7px;}
+#net_banking .payment-css { margin:0;}
+#net_banking .payment-css .radio{float: left;margin: 0;width: 100%;}
+#net_banking .dropdown-menu, #credit_emi .dropdown-menu{min-width: 270px;}
+#net_banking .dropdown-toggle, #credit_emi .dropdown-toggle {border: 1px solid rgb(238, 238, 238); height: 34px;  line-height: 34px;  padding: 0 11px;  width: 100%; margin:0; color:#323232; display:block;}
+#net_banking .btn-group, #credit_emi .btn-group{ width: 100%;}
+#net_banking .caret, #credit_emi .caret{position: absolute; right: 10px;  top: 17px;}
+#net_banking .payments-fields {margin: 0 0 24px;}
+.emi_values, .transaction-form{ display:none;}
+.emi_values .radio { margin: 0;}
+.emi_values span.emi_span {display: inline-block;  width: 23%;}
+.emi_values span.emi_span:nth-of-type(2) {width: 42%;}
+.emi_values span.emi_span:last-child {width: 14%; text-align:right;}
+.emi_values li {margin: 10px 0 0;}
+.transaction-css {border-bottom: 1px solid rgb(238, 238, 238);  display: block;  font-size: 20px;  margin: 40px 0 34px;  padding: 0 0 10px;}
+.payment-details-header > p {font-size: 12px;  text-align: right; display:none;}
+.payment-details-header .tooltip{ width:250px;}
+
+
+@media (max-width:1200px){
+	
+	/*=== Buy Now Page Css ===*/
+	
+	.quick-buy-now-css .or-divider { width: 18%;}
+	.quick-buy-now-css .or-divider::after, .quick-buy-now-css .or-divider::before {left: 31px;}
+	.social-acc-login {width: 82%;}
+	.review-bottom .button {font-size: 14px;}
+	.subtotal-css a { right: -8px; top: 0;}
+	.quick-buy-now-css .payments-options .tabs-left .nav a {font-size: 15px; padding: 9px 16px;}
+	.payment-form .payments-fields:last-child .col-md-2 {padding: 0 0 0 15px;}
+	#net_banking .dropdown-menu, #credit_emi .dropdown-menu {min-width: 218px;}
+	.payment-option-cards { margin: 0 0 18px;}
+	#credit_emi label { display: block;  float: none;  text-align: center;}
+
+	
+	
+	
+}

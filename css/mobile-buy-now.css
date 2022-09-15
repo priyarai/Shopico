@@ -1,0 +1,76 @@
+/*=== Shipping Details Css ===*/
+
+@media (max-width:767px){
+.boy-now-mobile{ background:none;}
+.shipping-header { text-align: center;  margin: 50px 0;}
+.common-steps {background: rgb(118, 118, 118); border-radius: 100%;  color: rgb(255, 255, 255);  font-size: 22px;  font-weight: bold; height: 45px;  left: 0; line-height: 45px;  margin: 0 auto;  position: absolute;  right: 0;  text-align: center;  top: -50px;  width: 45px;  z-index: 2; cursor:pointer;}
+.shipping_prog_rod{background: rgb(204, 204, 204); height: 5px; left: 0; margin: 0 auto; position: absolute; right: 0; top: 23px; width: 68%; z-index: 1;}
+.mobile_name {font-weight: bold;}
+.common-steps.process {background: rgb(151, 72, 68);}
+.active.common-steps {background: rgb(10, 166, 153);}
+.shipping-login-form .user-register-bottom{ background:none;}
+.shipping-mobile-css .controls {margin: 40px auto; max-width: 200px;}
+.shipping-mobile-css .tab-pane .controls a {font-size: 15px; padding:7px 12px;}
+.shipping-login-form .user-register-top > h4 {margin: 30px 0; text-align: center;}
+.shipping-mobile-css .tab-pane {font-family: karla;}
+.shipping-login-form .or-divider::after, .shipping-login-form .or-divider::before { width: 150px;}
+.shipping-login-form .or-divider::before {left: 0;}
+.shipping-login-form .or-divider::after {right: 0;}
+.shipping-login-form .user-register-bottom {padding: 20px 0;}
+.shipping-login-form .user-register-top{ padding:0;}
+.shipping-login-form .user-register-bottom li {display: inline-block; margin: 0 0 10px;}
+.shipping-common{ background: rgb(255, 255, 255);  margin: 0 0 30px;  padding: 5px 15px;}
+
+.shipping-address-in .address-acc { display: block;  padding: 3px 0; font-size:20px;}
+.shipping-address-in .address-acc i.fa {float: right; font-size: 10px; position: relative; top: 9px;}
+.shipping-address-in  li {margin: 15px 0;}
+.shipping-common .form-control{ box-shadow:none; border-radius:0;}
+.shipping-address-in label {font-size: 16px; font-weight: 300;}
+
+.payment-top div {float: left;  width: 50%; padding:0 0 10px;}
+.shipping-payment h5 {font-size: 20px; margin: 20px 0;}
+.shipping-right {text-align: right;}
+.address-acc {position: relative; display:block;}
+.address-acc h5 span{font-size: 18px; position:relative; display:block; padding:0 30px;}
+.address-acc .fa.fa-plus, .address-acc .fa.fa-minus {position: absolute;  right: 0;  top: 4px;}
+.promo-css-in h5 span:before, .bank-css-in h5 span:before{font-family:'fontawesome'; position:absolute; left:0;}
+.promo-css-in h5 span:before{ content:"\f09d";}
+.bank-css-in h5 span:before{ content:"\f07b";}
+#promo_code .controls{margin-top: 20px;}
+.shipping-payment .shipping-common li {float: left; margin: 0 0 20px; width:100%; padding: 0 0 0 25px; position:relative;}
+.shipping-common .radio.medium {float: left;}
+.shipping-payment label { left: -8px;  position: absolute;  top: -7px;}
+.bank-detail-in { background: rgb(243, 243, 243); border-bottom: 1px solid rgb(238, 238, 238); margin: 20px 0 0; padding: 10px 15px;}
+.shipping-mobile-css .bank-detail-in .controls{margin: 20px auto;}
+.pay-methode .btn-group { display: block;  width: 100%;}
+.pay-methode .dropdown-toggle {border: 1px solid rgb(238, 238, 238);  display: block;  padding: 7px 15px;}
+.pay-methode b { position: absolute;  right: 12px;  top: 17px;}
+.common-collapse {display: none;}
+.pay-methode .common-collapse li { display: inline-block;  float: left;  padding: 0;  width: 100%;}
+.pay-common-top img {height: 65px; width: 65px;}
+.pay-common-top { text-align: center;}
+.new-active{ background: rgb(243, 243, 243);  padding: 20px 20px 15px;}
+.pay-shipping .address-acc {border-bottom: 1px solid rgb(243, 243, 243);}
+.pay-shipping .address-acc.last {border-bottom:none;}
+.new-active .btn-group {margin: 0 0 20px;}
+.payment-option-mid .dropdown-menu li {margin: 0 0 4px; padding: 0;  width: 100%;}
+#pay_egv label { left: 0; position: relative;  top: 5px;}
+#pay_egv .payments-fields { margin: 0 0 15px;}
+.pay-methode #pay_cci li {display: inline-block; width: auto; float:none;  padding: 0 0 0 25px;}
+
+
+
+
+}
+
+
+@media (max-width:480px){
+
+.shipping-login-form .or-divider::after, .shipping-login-form .or-divider::before {width: 100px;}
+.shipping-mobile-css .controls {margin: 40px auto; max-width: 100%; width:100%; float:left;}
+.shipping-mobile-css .pay-methode .controls{margin: 0px auto 10px;}
+}
+
+
+
+
